@@ -61,7 +61,7 @@
 ## 联系我们
 
 如果您有任何问题或建议，请通过以下方式联系我们：
-- 邮箱：[your.email@example.com](mailto:your.email@example.com)
+- 邮箱：472737007@qq.com
 - 反馈：在应用内的"关于我们"页面提交
 
 ---
